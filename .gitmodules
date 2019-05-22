@@ -2,5 +2,5 @@
 	path = DeepLearningWithMXNetGluon
 	url = https://github.com/ThomasDelteil/DeepLearningWithMXNetGluon
 [submodule "Seattle_Workshop"]
-	path = Seattle_Workshop
+	path = 07-Generating-Images-lab/Seattle_Workshop
 	url = https://github.com/NRauschmayr/Seattle_Workshop
