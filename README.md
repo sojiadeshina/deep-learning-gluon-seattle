@@ -32,7 +32,7 @@ Repo for resources for workshop on deep learning with Apache MXNet, Gluon, Amazo
 | Lunch Break | 60    |      |
 | 11- Overview of NLP                                  | 40     | Soji      |
 | 12 - Gluon NLP            | 30 | Nathalie |
-| 13 - Sequence to Sequence Models lab | 60    |           |
+| 13 - Sequence to Sequence Models lab | 60    | Soji |
 | Break          | 15    |      |
-| 14 - Visual Anomaly Detection lab | 40     | Soji      |
+| 14 - Visual Anomaly Detection lab | 60    | Nathalie |
 
