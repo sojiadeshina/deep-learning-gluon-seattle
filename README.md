@@ -17,7 +17,7 @@ Repo for resources for workshop on deep learning with Apache MXNet, Gluon, Amazo
 | 03  - Gluon Crash Course | 90 | Soji/Nathalie |
 | Lunch Break | 60 |  |
 | 04 - Overview of Computer Vision | 45 | Soji |
-| 05 - Gluon CV | 30 | Nathalie |
+| 05 - Gluon CV | 30 | Soji |
 | 06 - Object Detection lab                              | 60 | Soji |
 | Break | 15 |  |
 | 07 - Generating Images lab | 60 | Nathalie |
@@ -26,13 +26,13 @@ Repo for resources for workshop on deep learning with Apache MXNet, Gluon, Amazo
 
 | Title                                             | Length | Presenter |
 |---------------------------------------------------|--------|-----------|
-| 08 - Introduction to Time Series and Sequence Models | 45     | Soji      |
+| 08 - Introduction to Time Series and Sequence Models | 45     | Nathalie     |
 | 09 - Introduction to Recurrent Neural Networks | 30     | Nathalie |
 | 10 - Gluon Forecasting lab | 90 | Soji/Nathalie |
 | Lunch Break | 60    |      |
 | 11- Overview of NLP                                  | 40     | Soji      |
-| 12 - Gluon NLP            | 30 | Nathalie |
-| 13 - Sequence to Sequence Models lab | 60    | Soji |
+| 12 - Gluon NLP            | 30 | Soji |
+| 13 - Visual Anomaly Detection lab | 60    | Nathalie |
 | Break          | 15    |      |
-| 14 - Visual Anomaly Detection lab | 60    | Nathalie |
+| 14 - Reinforcement Learning lab | 60    | Soji |
 
