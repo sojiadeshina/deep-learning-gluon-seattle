@@ -28,7 +28,7 @@ Repo for resources for workshop on deep learning with Apache MXNet, Gluon, Amazo
 |---------------------------------------------------|--------|-----------|
 | 08 - Introduction to Time Series and Sequence Models | 45     | Nathalie     |
 | 09 - Introduction to Recurrent Neural Networks | 30     | Nathalie |
-| 10 - Gluon Forecasting lab | 90 | Soji/Nathalie |
+| 10 - Gluon Forecasting lab | 90 | Nathalie |
 | Lunch Break | 60    |      |
 | 11- Overview of NLP                                  | 40     | Soji      |
 | 12 - Gluon NLP            | 30 | Soji |
